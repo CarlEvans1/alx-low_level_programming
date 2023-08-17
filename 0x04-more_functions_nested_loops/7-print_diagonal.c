@@ -4,6 +4,7 @@
  * @n: number of times it should be printed
  * Return: void
  */
+
 void print_diagonal(int n)
 {
 if (n <= 0)
